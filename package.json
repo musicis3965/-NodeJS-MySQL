@@ -1,0 +1,13 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "inquirer": "^6.2.0"
+  }
+}
